@@ -1,4 +1,4 @@
-Travelling Salesman Problem
+Traveling Salesman Problem
 
 For this project we were given a set of input files representing complete graphs of cities to solve as TSP problems. Our goal was to come up with an algorithm that could solve the tsp_example_#.txt problems within 25% of the optimal solution (our_sol/opt_sol <= 1.25). There was also a competition held to see which algorithm created could solve the test-input-#.txt input files as close to optimal as possible within a 3 minute time window. These, for grading purposes, were also intended to be within 25% of optimal but we were not provided an optimal path to check our work.
 
